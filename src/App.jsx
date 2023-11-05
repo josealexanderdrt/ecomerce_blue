@@ -135,10 +135,16 @@ Consume los parametros de la ruta
 
 export default ProductsList
 
-
+8) Creador de Buscador 
+el buscador se hara con un from normal 
 
 
 
 luego esto va a  mapear 
 */
+
+
+
+
+
 }
